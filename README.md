@@ -53,3 +53,11 @@ some of the most used semantic tags : (most of the semantic tages are block-leve
 
 These are reffered as **un-ordered (ul) and ordered lists(ol)** . Only **list-items (li)** are allowed inside of list tags.
 
+## HTML entity reference
+
+Escape characters :
+use **" &lt; "** instead of **" < "**
+use **" &gt; "** instead of **" > "**
+use **" &amp "** instead of **" & "**
+for **copyright** symbol always use **" &copy; "**
+
