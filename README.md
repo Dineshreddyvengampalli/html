@@ -17,7 +17,7 @@ html document break-down :
 
 ## HTML Page Structure:
 
-![[Pasted image 20230112213357.png]]
+!["document structure](./assets/doc_structure.png)
 
 ## HTML Tags :
 
@@ -35,7 +35,7 @@ The HTML **element** is everything from the start tag to the end tag:
 --> May contain inline or block-level elements \
 *Inline Elements* : \
 --> Renders elements in the same line \
---> May contain only other inline elements \
+--> May contain only other inline elements 
 
 ## semantic html elements
 
