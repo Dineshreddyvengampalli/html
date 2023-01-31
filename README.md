@@ -1,4 +1,4 @@
-# html
+# HTML DOM Documents
 When HTML document is loaded into the web-browser, it becomes document object.
 This document object is the root node of HTML document.It is the property of the window object.
 ___
