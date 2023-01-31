@@ -30,12 +30,12 @@ The HTML **element** is everything from the start tag to the end tag:
 
 ## HTML content models
 
-*Block-level elements* :
---> Renders elements in a new line
---> May contain inline or block-level elements
-*Inline Elements* :
---> Renders elements in the same line
---> May contain only other inline elements
+*Block-level elements* : \
+--> Renders elements in a new line \
+--> May contain inline or block-level elements \
+*Inline Elements* : \
+--> Renders elements in the same line \
+--> May contain only other inline elements \
 
 ## semantic html elements
 
@@ -60,4 +60,5 @@ use **" &lt; "** instead of **" < "**
 use **" &gt; "** instead of **" > "**
 use **" &amp "** instead of **" & "**
 for **copyright** symbol always use **" &copy; "**
+
 
