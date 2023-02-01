@@ -68,3 +68,12 @@ Links contain attributes like href(hypertext referance),target etc
 If the attribute target is set equal to "_blank" then the hypertext document opens in
 the new tab in the browser.
 We can simply specify **" # id "** to navigate to the required sections inside the html page.
+
+## Displaying Images
+
+Images are displayed using img tag.This tag is an inline tag.\
+It is best practise to always specify the width and height of the image in the img attribute.
+The commonly used attributes are \
+**src** : source of the iamge \
+**alt** : alternate text for the image\
+**width and height** : dimensions of the image.
