@@ -61,4 +61,10 @@ use **" &gt; "** instead of **" > "**
 use **" &amp "** instead of **" & "**
 for **copyright** symbol always use **" &copy; "**
 
+## Creating Links
 
+Links in html acts as both inline and block level elements.
+Links contain attributes like href(hypertext referance),target etc
+If the attribute target is set equal to "_blank" then the hypertext document opens in
+the new tab in the browser.
+We can simply specify **" # id "** to navigate to the required sections inside the html page.
