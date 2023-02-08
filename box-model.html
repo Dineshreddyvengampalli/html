@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>box-model</title>
+        <style>
+            *{
+                padding: 0%;
+                margin: 0%;
+            }
+            p:nth-child(1){
+                color: cadetblue;
+            }
+            body{
+                border: 10px solid black;
+                padding: opx;
+            }
+            .box{
+                padding: 10px;
+                
+            }
+        </style>
+    </head>
+    <body>
+        <div>
+            This the div 1
+            <div>This is div 3
+                <p>Hai this is p-2 </p>
+            </div>
+        </div>
+        <p>hai this is p-1</p>
+        <div>
+            This is div 2
+        </div>
+        <div class="box">
+            this is div
+        </div>
+    </body>
+</html>

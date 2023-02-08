@@ -1,0 +1,89 @@
+html,body{
+    height: 100%;
+    margin: 0;
+}
+
+.welcome,
+.sign-up{
+    height: 100%;
+    display: inline-block;
+
+}
+.welcome{
+    width: 25%;
+    background-color: #00AD74;
+    padding: 1rem;
+    position: relative;
+}
+.welcome-desc{
+    color: white;
+    padding: 2rem;
+}
+.brand-name {
+    color: white;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px black;
+}
+
+.sign-up{
+    width: 75%;
+    background-color: white;
+
+}
+.signup-link{
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 10px 50px;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    align-content: center;
+ 
+}
+.container{
+    display: flex;
+    height: 100%;
+}
+.welcome-msg{
+    font-weight: bolder;
+    color: white;
+    font-size: 2rem;
+    position: relative;
+    top: 30px;
+}
+
+.container2{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.create-account{
+    font-weight: bolder;
+    font-size: 2.5rem;
+    color: #00AD74;
+    margin: auto;
+}
+
+.logo{
+    padding: 1.5%;
+    font-size: 25px;
+}
+
+input{
+    display: block;
+    border: none;
+    background-color: lightgreen;
+    padding: 2rem;
+    width: 400px;
+    border-radius: 5px;
+    margin-block: 1rem;
+}
+
+.t-center{
+    text-align: center;
+}
+
+.form-container{
+    display: flex;
+}
